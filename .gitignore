@@ -1,3 +1,11 @@
+# manim stuff
+*.mp4
+*.aux
+*.tex
+*.xdv
+*.svg
+*.dvi
+*.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
